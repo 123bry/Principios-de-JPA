@@ -100,7 +100,7 @@
 
       •   Ejecuta tu aplicación desde tu IDE o desde la línea de comandos con mvn spring-boot:run.
 
-          ![image](https://github.com/user-attachments/assets/22dbbcfd-d3b5-42c5-bbda-469e679548e8)
+   ![image](https://github.com/user-attachments/assets/22dbbcfd-d3b5-42c5-bbda-469e679548e8)
 
 
 3.   Probar los Endpoints:
@@ -109,20 +109,20 @@
 
              •   GET /api/productos
  
-                ![image](https://github.com/user-attachments/assets/cdc1aeb3-2ff2-4ef8-8cbb-052eb0b1c415)
+   ![image](https://github.com/user-attachments/assets/cdc1aeb3-2ff2-4ef8-8cbb-052eb0b1c415)
 
 
              •   GET /api/productos/{id}
   
-                ![image](https://github.com/user-attachments/assets/e9a290ba-be85-4790-a0b0-dc20fdbda9ef)
+   ![image](https://github.com/user-attachments/assets/e9a290ba-be85-4790-a0b0-dc20fdbda9ef)
 
 
              •   GET /api/productos/search?nombre={nombre}
 
-                 ![image](https://github.com/user-attachments/assets/af6e31b1-2531-4218-b0bb-fc170ef9481f)
+   ![image](https://github.com/user-attachments/assets/af6e31b1-2531-4218-b0bb-fc170ef9481f)
 
 
             •.   GET /api/productos/searchByPrecio?preciomin={preciomin }&preciomax={ preciomax}
 
-                 ![image](https://github.com/user-attachments/assets/5b1bcf81-b665-46a8-82f2-8a8d867c0d39)
+ ![image](https://github.com/user-attachments/assets/5b1bcf81-b665-46a8-82f2-8a8d867c0d39)
 
