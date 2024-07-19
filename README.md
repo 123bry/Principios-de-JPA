@@ -1,10 +1,15 @@
 # Principios-de-JPA
 
-## Grupo # 09: 
+#Grupo # 09: 
+
 • Benites Geraldine
+
 • Cadena Jose
+
 • Casco Bryan
+
 • Chiriguaya Kevin
+
 • Vallejo Andres
 
 
