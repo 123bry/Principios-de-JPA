@@ -1,5 +1,12 @@
 # Principios-de-JPA
 
+## Grupo # 09: 
+• Benites Geraldine
+• Cadena Jose
+• Casco Bryan
+• Chiriguaya Kevin
+• Vallejo Andres
+
 
 ## Parte 1: Configuración del Proyecto
 1.   Crear un Proyecto Spring Boot:
