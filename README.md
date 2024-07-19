@@ -43,6 +43,9 @@
 
       •   Dentro del paquete model, crea una clase Producto.
 
+![image](https://github.com/user-attachments/assets/78e96219-1446-4275-b5c4-620371dc384a)
+![image](https://github.com/user-attachments/assets/8318ad83-535f-423a-b82b-c4e5bcf5cbcf)
+
 
 
 
