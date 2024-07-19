@@ -1,6 +1,6 @@
 # Principios-de-JPA
 
-#Grupo # 09: 
+- Grupo # 09: 
 
 • Benites Geraldine
 
